@@ -1,0 +1,43 @@
+{
+  "name": "pthread-stubs",
+  "version": "0.3",
+  "build": "h0ce48e5_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/snowflake/linux-64",
+  "subdir": "linux-64",
+  "fn": "pthread-stubs-0.3-h0ce48e5_1.tar.bz2",
+  "md5": "de7d258a4efcd8a63df73099c8e5d954",
+  "url": "https://repo.anaconda.com/pkgs/snowflake/linux-64/pthread-stubs-0.3-h0ce48e5_1.tar.bz2",
+  "sha256": "a0dd2e926abb989d755d196c803b0e3aff3f375eeccb329468e96d00387db929",
+  "depends": [
+    "libgcc-ng >=7.2.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1505733967000,
+  "size": 4895,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/conda/pkgs/pthread-stubs-0.3-h0ce48e5_1.tar.bz2",
+  "extracted_package_dir": "/opt/conda/pkgs/pthread-stubs-0.3-h0ce48e5_1",
+  "files": [
+    "lib/pkgconfig/pthread-stubs.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/pkgconfig/pthread-stubs.pc",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "9ce637c8a9c65d1287a6a0aa7a1dc0a65810fe8811403f2247afdaf671a1c5db",
+        "size_in_bytes": 197,
+        "sha256_in_prefix": "89789632fe51cc69259337091de0188cd76d2c3b2faca409f20904e2d9f04ffe"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/conda/pkgs/pthread-stubs-0.3-h0ce48e5_1",
+    "type": 1
+  }
+}

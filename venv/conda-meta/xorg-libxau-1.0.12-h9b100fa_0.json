@@ -1,0 +1,73 @@
+{
+  "name": "xorg-libxau",
+  "version": "1.0.12",
+  "build": "h9b100fa_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/snowflake/linux-64",
+  "subdir": "linux-64",
+  "fn": "xorg-libxau-1.0.12-h9b100fa_0.tar.bz2",
+  "md5": "962cde7b3951cf7244e2ed2d059900a6",
+  "url": "https://repo.anaconda.com/pkgs/snowflake/linux-64/xorg-libxau-1.0.12-h9b100fa_0.tar.bz2",
+  "sha256": "a15b598100bd3f09786fd4af7c56f8a3362800409c295f0a6445796ce2d6996e",
+  "depends": [
+    "libgcc-ng >=11.2.0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1745958707000,
+  "size": 13895,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/conda/pkgs/xorg-libxau-1.0.12-h9b100fa_0.tar.bz2",
+  "extracted_package_dir": "/opt/conda/pkgs/xorg-libxau-1.0.12-h9b100fa_0",
+  "files": [
+    "include/X11/Xauth.h",
+    "lib/libXau.so",
+    "lib/libXau.so.6",
+    "lib/libXau.so.6.0.0",
+    "lib/pkgconfig/xau.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "include/X11/Xauth.h",
+        "path_type": "hardlink",
+        "sha256": "d0bc0612c0d2eb38bf7519190ebb60ea0d538c86589a6fbc06e0d761ec22f9c4",
+        "size_in_bytes": 4973,
+        "sha256_in_prefix": "d0bc0612c0d2eb38bf7519190ebb60ea0d538c86589a6fbc06e0d761ec22f9c4"
+      },
+      {
+        "_path": "lib/libXau.so",
+        "path_type": "softlink",
+        "sha256": "63c07529fc685758e6fdae708d43e20eef99b9b26dc944e3985975ef1ef8c467",
+        "size_in_bytes": 17232
+      },
+      {
+        "_path": "lib/libXau.so.6",
+        "path_type": "softlink",
+        "sha256": "63c07529fc685758e6fdae708d43e20eef99b9b26dc944e3985975ef1ef8c467",
+        "size_in_bytes": 17232
+      },
+      {
+        "_path": "lib/libXau.so.6.0.0",
+        "path_type": "hardlink",
+        "sha256": "63c07529fc685758e6fdae708d43e20eef99b9b26dc944e3985975ef1ef8c467",
+        "size_in_bytes": 17232,
+        "sha256_in_prefix": "63c07529fc685758e6fdae708d43e20eef99b9b26dc944e3985975ef1ef8c467"
+      },
+      {
+        "_path": "lib/pkgconfig/xau.pc",
+        "prefix_placeholder": "/croot/xorg-libxau_1745958680217/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "a1d4b755e9a4fe7631bdfb421a1239dbf8d4d485fa67ae2fe181660fbfa8ec73",
+        "size_in_bytes": 485,
+        "sha256_in_prefix": "fb0e416037cf49dcdfcdb1630e4156e50f0fed595bda703fe1cc6def7c5dc076"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/conda/pkgs/xorg-libxau-1.0.12-h9b100fa_0",
+    "type": 1
+  }
+}

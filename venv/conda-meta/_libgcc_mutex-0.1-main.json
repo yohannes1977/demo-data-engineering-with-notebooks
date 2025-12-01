@@ -1,0 +1,29 @@
+{
+  "name": "_libgcc_mutex",
+  "version": "0.1",
+  "build": "main",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/snowflake/linux-64",
+  "subdir": "linux-64",
+  "fn": "_libgcc_mutex-0.1-main.tar.bz2",
+  "md5": "013d3f22cd3b87f71224bd936765bcad",
+  "url": "https://repo.anaconda.com/pkgs/snowflake/linux-64/_libgcc_mutex-0.1-main.tar.bz2",
+  "sha256": "bd36a740479053a94d9c2a92bc55333a7a1a3e63ec0341d4cde6b7825bae0ee3",
+  "depends": [],
+  "constrains": [],
+  "license": "",
+  "timestamp": 1562011674000,
+  "size": 3121,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/conda/pkgs/_libgcc_mutex-0.1-main.tar.bz2",
+  "extracted_package_dir": "/opt/conda/pkgs/_libgcc_mutex-0.1-main",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/opt/conda/pkgs/_libgcc_mutex-0.1-main",
+    "type": 1
+  }
+}
